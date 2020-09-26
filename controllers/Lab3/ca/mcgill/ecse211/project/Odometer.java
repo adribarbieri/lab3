@@ -109,6 +109,7 @@ public class Odometer implements Runnable {
    * @param deltas the deltaPosition array (x, y, theta)
    */
   public static void updateDeltaPosition(int[] prev, int[] curr, double theta, double[] deltas) {
+    theta = Math.toRadians(theta);
     // compute L and R wheel displacements
     double distL = Math.PI * WHEEL_RAD * (curr[LEFT] - prev[LEFT]) / 180;
     double distR = Math.PI * WHEEL_RAD * (curr[RIGHT] - prev[RIGHT]) / 180;
