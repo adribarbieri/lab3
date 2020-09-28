@@ -2,9 +2,9 @@
 
 _Read this entire document before doing anything._
 
-**Code due: Immediately before your demo(s), Wednesday, September 30 at the latest**
+**Code due: Immediately before your demo(s), Friday, October 2 at the latest**
 
-**Report due: Friday, October 2, 23:59 EDT (Montréal time)**
+**Report due: Sunday, October 4, 23:59 EDT (Montréal time)**
 
 This is the repository that contains the required files for the localization lab.
 For lab objectives, demo and report requirements, and submission instructions, see
